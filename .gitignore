@@ -1,0 +1,10 @@
+# Bỏ thư mục target
+/target
+
+# Bỏ thư mục document và image
+/document
+/image
+
+cargo.lock
+*.md
+*.pdf
